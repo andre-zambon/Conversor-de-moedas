@@ -56,7 +56,7 @@ function Converter() {
 
   valorConvertido.innerHTML =
     "O valor em " +
-    recebeMoedaEntrada() +
+    recebeMoedaSaida() +
     " é " +
     "<br>" +
     resultado.toFixed(2);
